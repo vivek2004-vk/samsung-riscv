@@ -91,7 +91,7 @@ RISC-V instructions are categorized as:
 ---
 
 ### MACHINE CODE FOR EACH INSTRUCTIONS
-![Alt text](snapshots/MAIN 0BJ.png)
+![Alt text](snapshots/main.png)
 
 
 
