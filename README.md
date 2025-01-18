@@ -18,3 +18,8 @@
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - Compile C code using gcc.
 - Compile and count the number of instructions used in ofast and o1 using the RISC-V compiler.
+### [Task 2](Task2/)
+*Description:* Refer to C-based and RISC-V-based lab videos to:
+- performing spike simulation and debugging the c code of sum1ton.c and simpcalc.c with debugging mode using spike
+- seq C code displays sequence of multiples of 3 while sumton displays sum of 1 to 100
+
