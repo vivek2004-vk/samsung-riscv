@@ -22,11 +22,11 @@
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - performing spike simulation and debugging the c code of sum1ton.c and simpcalc.c with debugging mode using spike
 - seq C code displays sequence of multiples of 3 while sumton displays sum of 1 to 100
-- ### [Task 3](Task3/)
+### [Task 3](Task3/)
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - 15 unique RISC-V instructions.
 - 32-bit instruction code in their respective instruction type formats.
--  ### [Task 4](Task4/)
+### [Task 4](Task4/)
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - A functional simulation of the given RISC-V Core Verilog netlist and testbench.
 
