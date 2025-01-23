@@ -26,5 +26,7 @@
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - 15 unique RISC-V instructions.
 - 32-bit instruction code in their respective instruction type formats.
-
+-  ### [Task 4](Task4/)
+*Description:* Refer to C-based and RISC-V-based lab videos to:
+- A functional simulation of the given RISC-V Core Verilog netlist and testbench.
 
