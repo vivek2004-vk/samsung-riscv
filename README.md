@@ -29,4 +29,7 @@
 ### [Task 4](Task4/)
 *Description:* Refer to C-based and RISC-V-based lab videos to:
 - A functional simulation of the given RISC-V Core Verilog netlist and testbench.
+### [Task 5](Task5/)
+*Description:* Refer to C-based and RISC-V-based lab videos to:
+- Implement any digital circuits using VSDSquadron Mini 
 
