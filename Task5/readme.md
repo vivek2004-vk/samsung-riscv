@@ -49,7 +49,7 @@ The comparator logic uses Boolean algebra to determine the three outputs:
 | **GND**        | GND          | Ground               |
 
 ---
-![Alt text](Snapshots/VSDQ2.png)
+![Alt text](snapshots/vsd1.png)
 
 ---
 
@@ -67,7 +67,7 @@ The comparator logic uses Boolean algebra to determine the three outputs:
 
 ---
 
-## Program
+## HOW TO PROGRAM
 
 ```c
 #include <stdio.h>
