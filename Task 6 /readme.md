@@ -117,7 +117,18 @@ The result is displayed using **three LEDs**.
     while (1) {
         CompareNumbers();
         Delay_Ms(100);  // Debouncing delay
+        
 -----
+## IMAGE 1
+![Alt text](hardwarecircuit/image1.png)
+## IMAGE 2
+![Alt text](hardwarecircuit/image2.png)
+
+
+[VIDEO LINK (2 BIT COMPARATOR)](https://drive.google.com/file/d/1PHe6CMQpSTCm5ZwkPLy9mVXqagr21bq6/view?usp=drive_link)
+
+
+
 
         
        
